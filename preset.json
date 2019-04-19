@@ -11,5 +11,6 @@
     "@vue/cli-plugin-unit-jest": {}
   },
   "router": true,
+  "routerHistoryMode": false,
   "vuex": true
 }
